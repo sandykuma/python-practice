@@ -1,6 +1,6 @@
 """LLM को फ़ंक्शन चलाने दो! 🚀
-Practice: complete the TODO below, then run the file.
-From the Python Shorts channel — subscribe for one concept a day!
+Practice: complete the TODO, then run it.
+From the coding Shorts channel — subscribe for one concept a day!
 """
 
 def sub(a,b):
@@ -14,7 +14,7 @@ op = 'sub'
 # TODO: Use dispatch dict to call the correct function with arguments 10 and 3 and print result
 
 
-# ---------------- SOLUTION (peek only after trying!) ----------------
+# ---- SOLUTION (peek only after trying!) ----
 # def add(a,b):
 #     return a+b
 # 

@@ -1,6 +1,6 @@
 """System vs User Prompt: क्या फर्क है? 🤔
-Practice: complete the TODO below, then run the file.
-From the Python Shorts channel — subscribe for one concept a day!
+Practice: complete the TODO, then run it.
+From the coding Shorts channel — subscribe for one concept a day!
 """
 
 messages = [
@@ -9,7 +9,7 @@ messages = [
 ]
 
 
-# ---------------- SOLUTION (peek only after trying!) ----------------
+# ---- SOLUTION (peek only after trying!) ----
 # messages = [
 #     {"role": "system", "content": "You are a sarcastic poet"},
 #     {"role": "user", "content": "Write a poem about AI"}

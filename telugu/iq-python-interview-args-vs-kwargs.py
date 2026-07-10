@@ -1,6 +1,6 @@
 """⭐️ *args vs **kwargs మాయా?
-Practice: complete the TODO below, then run the file.
-From the Python Shorts channel — subscribe for one concept a day!
+Practice: complete the TODO, then run it.
+From the coding Shorts channel — subscribe for one concept a day!
 """
 
 def multiply(*args):
@@ -8,7 +8,7 @@ def multiply(*args):
     pass
 
 
-# ---------------- SOLUTION (peek only after trying!) ----------------
+# ---- SOLUTION (peek only after trying!) ----
 # def add(*args, **kwargs):
 #     total = sum(args) + sum(kwargs.values())
 #     return total

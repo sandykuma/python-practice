@@ -1,6 +1,6 @@
 """Turn Words into Numbers 🔢
-Practice: complete the TODO below, then run the file.
-From the Python Shorts channel — subscribe for one concept a day!
+Practice: complete the TODO, then run it.
+From the coding Shorts channel — subscribe for one concept a day!
 """
 
 sentence_a = "apple orange"
@@ -8,7 +8,7 @@ sentence_b = "orange banana"
 # TODO: build bag‑of‑words vectors and compute cosine similarity
 
 
-# ---------------- SOLUTION (peek only after trying!) ----------------
+# ---- SOLUTION (peek only after trying!) ----
 # import math
 # 
 # def cosine(a, b):

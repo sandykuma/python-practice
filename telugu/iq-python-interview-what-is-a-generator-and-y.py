@@ -1,6 +1,6 @@
 """Generator అంటే ఏమిటి? 🚀
-Practice: complete the TODO below, then run the file.
-From the Python Shorts channel — subscribe for one concept a day!
+Practice: complete the TODO, then run it.
+From the coding Shorts channel — subscribe for one concept a day!
 """
 
 def gen_factorial(n):
@@ -11,7 +11,7 @@ for f in gen_factorial(4):
     print(f)
 
 
-# ---------------- SOLUTION (peek only after trying!) ----------------
+# ---- SOLUTION (peek only after trying!) ----
 # def gen_squares(n):
 #     for i in range(n):
 #         yield i*i
