@@ -1,6 +1,6 @@
 """Embedding क्या है? 🤔
-Practice: complete the TODO below, then run the file.
-From the Python Shorts channel — subscribe for one concept a day!
+Practice: complete the TODO, then run it.
+From the coding Shorts channel — subscribe for one concept a day!
 """
 
 # दो छोटे वेक्टर बनाओ और उनका cosine similarity निकालो
@@ -9,7 +9,7 @@ v2 = [1, 3, 0]
 # TODO: numpy इस्तेमाल करके cosine similarity प्रिंट करो
 
 
-# ---------------- SOLUTION (peek only after trying!) ----------------
+# ---- SOLUTION (peek only after trying!) ----
 # import numpy as np
 # v1 = np.array([1, 2, 3])
 # v2 = np.array([4, 5, 6])

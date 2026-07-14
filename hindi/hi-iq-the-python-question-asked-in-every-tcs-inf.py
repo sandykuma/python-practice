@@ -1,6 +1,6 @@
 """डिफ़ॉल्ट आर्ग्यूमेंट का जाल 🪤
-Practice: complete the TODO below, then run the file.
-From the Python Shorts channel — subscribe for one concept a day!
+Practice: complete the TODO, then run it.
+From the coding Shorts channel — subscribe for one concept a day!
 """
 
 def append_twice(val, lst=None):
@@ -8,7 +8,7 @@ def append_twice(val, lst=None):
     pass
 
 
-# ---------------- SOLUTION (peek only after trying!) ----------------
+# ---- SOLUTION (peek only after trying!) ----
 # # सही तरीका – डिफ़ॉल्ट None और नया लिस्ट बनाएं
 # 
 # def add_item(item, lst=None):

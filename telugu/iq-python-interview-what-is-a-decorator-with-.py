@@ -1,6 +1,6 @@
 """Python Decorators అంటే ఏంటి? 🪄
-Practice: complete the TODO below, then run the file.
-From the Python Shorts channel — subscribe for one concept a day!
+Practice: complete the TODO, then run it.
+From the coding Shorts channel — subscribe for one concept a day!
 """
 
 def bold_text(func):
@@ -10,7 +10,7 @@ def bold_text(func):
     return wrapper
 
 
-# ---------------- SOLUTION (peek only after trying!) ----------------
+# ---- SOLUTION (peek only after trying!) ----
 # def my_decorator(func):
 #     def wrapper():
 #         print("Before function call")
