@@ -1,4 +1,4 @@
-"""Lists ని మ్యాన్యువల్‌గా రాయడం ఆపేయండి! 🚀
+"""Stop Building Lists Manually! 🚀
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """

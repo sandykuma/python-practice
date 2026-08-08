@@ -1,4 +1,4 @@
-"""Characters ని ఒక్కొక్కటిగా replace చేయడం ఆపేయండి! 🛑
+"""Stop replacing characters one-by-one! 🛑
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """

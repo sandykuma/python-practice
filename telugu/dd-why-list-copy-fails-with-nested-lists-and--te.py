@@ -1,4 +1,4 @@
-"""🚫 .copy() మిమ్మల్ని మోసం చేస్తోంది! Deep Copy వాడండి
+"""🚫 .copy() మిమ్మల్ని మోసం చేస్తుంది! Deep Copy వాడండి
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """

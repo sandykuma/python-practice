@@ -1,4 +1,4 @@
-"""🚫 list.copy() ఎందుకు అబద్ధం చెప్తుందంటే
+"""🚫 list.copy() ఎందుకు మోసం చేస్తుందంటే..
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """

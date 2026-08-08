@@ -1,4 +1,4 @@
-"""Strings జాయిన్ చేయడానికి + వాడటం ఆపేయండి! 🛑
+"""Strings ని కలపడానికి + వాడటం ఆపేయండి! 🛑
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """
