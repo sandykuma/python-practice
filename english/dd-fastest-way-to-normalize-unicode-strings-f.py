@@ -4,9 +4,9 @@ From the coding Shorts channel — subscribe for one concept a day!
 """
 
 import unicodedata
-s1 = 'Ångström'
-s2 = 'Angstrom\u030A'
-# TODO: normalize both and check equality
+s1 = 'Ångström'                 # precomposed
+s2 = 'A\u030Angstro\u0308m'   # same text, decomposed
+# TODO: show s1 == s2 is False, then normalize both with NFC and compare again
 
 
 # ---- SOLUTION (peek only after trying!) ----
