@@ -1,4 +1,4 @@
-"""Reverse Strings 😲 Emoji Survive
+"""String उल्टी करो — Emoji टूटेगा नहीं 😲
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """
