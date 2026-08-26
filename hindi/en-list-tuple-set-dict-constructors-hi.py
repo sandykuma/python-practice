@@ -1,4 +1,4 @@
-"""Lists को Manually बनाना बंद करें! 🚀
+"""Manually Lists बनाना बंद करें! 🚀
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """

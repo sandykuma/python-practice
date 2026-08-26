@@ -1,4 +1,4 @@
-"""Strings को join करने के लिए + का इस्तेमाल बंद करें! 🛑
+"""Strings जोड़ने के लिए + का use बंद करें! 🛑
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """

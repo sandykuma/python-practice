@@ -1,4 +1,4 @@
-"""Strings को झटपट Clean करें 🚀
+"""Strings को Fast Clean करने की Trick 🚀
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """

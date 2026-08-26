@@ -1,4 +1,4 @@
-"""Lists का Deep Copy 🚀
+"""List को Deep Copy करने का Pro तरीका 🚀
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """
