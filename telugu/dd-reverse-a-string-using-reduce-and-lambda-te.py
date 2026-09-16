@@ -1,4 +1,4 @@
-"""String ని Reverse చేయండి 🚀
+"""Reverse a String 🚀
 Practice: complete the TODO, then run it.
 From the coding Shorts channel — subscribe for one concept a day!
 """
